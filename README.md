@@ -35,8 +35,8 @@ Jetpack Compose is a modern Android UI toolkit for building native UIs in a more
 
 To run this project, you need the following tools and resources:
 
-- [Android Studio](https://developer.android.com/studio) (4.0 or higher)
-- Android Emulator or physical Android device with API level 21 or higher
+- [Android Studio](https://developer.android.com/studio) (Android Studio Electric Eel or higher)
+- Android Emulator or physical Android device with API level 24 or higher
 
 ### Installation
 
